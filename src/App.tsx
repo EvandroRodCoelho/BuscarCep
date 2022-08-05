@@ -1,11 +1,13 @@
-import { StyleGlobal } from "./style/styles"
-
+import { StyleGlobal, Container } from "./style/styles"
+import { Header } from "./components/Header"
 export const App = () => {
 
   return (
     <>
       <StyleGlobal />
-      <h1>Hello World</h1>
+
+      <Header />
+
     </>
   )
 }
