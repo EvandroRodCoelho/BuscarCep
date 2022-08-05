@@ -1,5 +1,6 @@
 import { StyleGlobal, Container } from "./style/styles"
 import { Header } from "./components/Header"
+import { SearchCep } from "./components/SeachCep"
 export const App = () => {
 
   return (
@@ -7,7 +8,7 @@ export const App = () => {
       <StyleGlobal />
 
       <Header />
-
+      <SearchCep />
     </>
   )
 }
