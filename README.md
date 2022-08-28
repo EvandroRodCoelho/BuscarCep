@@ -7,10 +7,10 @@ WebSite: https://verificar-cep.netlify.app
 ### Clonar 
 
 #### Usando método ssh
- git clone git@github.com:EvandroRodriguesCoelho2/BuscarCep.git
+ git clone git@github.com:EvandroRodCoelho/BuscarCep.git
 
 #### Usando método http
-git clone https://github.com/EvandroRodriguesCoelho2/BuscarCep.git
+git clone https://github.com/EvandroRodCoelho/BuscarCep.git
 
 ### De instalar node modules:
  Na pasta do projeto baixado:
